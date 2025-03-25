@@ -1,0 +1,39 @@
+body{
+    padding: auto;
+    background-color: azure;
+    margin: auto;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    margin: auto;
+    padding: 0px
+
+}
+
+a{
+    text-align: center;
+    color: black;
+    /* border: 1px solid black; */
+    margin: 20px;
+    gap: 40px;
+
+ 
+}
+
+header {
+    text-align: center;
+}
+table {
+    height: 400px;
+    width: 1200px;
+}
+
+tr, td {
+    margin: 70px;
+    border: 2px solid black;
+    border-collapse:collapse; 
+    
+
+}
